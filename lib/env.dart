@@ -74,7 +74,7 @@ Map<String, dynamic> environment = {
     "ShowAllCoupons": true,
     "ShowExpiredCoupons": true,
     "AlwaysShowTabBar": false,
-    "PrivacyPoliciesPageUrlOrId": "https://moreh.app/privacy-policy/",
+    "PrivacyPoliciesPageUrlOrId": "https://asnanstore.com/privacy-policy/",
     "AboutUSPageUrl": "https://codecanyon.net/user/inspireui",
     "NewsPageUrl": "https://products.inspireui.com/",
     "FAQPageUrl": "https://products.inspireui.com/have-a-question/",

@@ -60,7 +60,9 @@ extension OrderItemDetailsAction on VendorAdminOrderItemDetailsScreenState {
   }
 
   void _showOrderDetail() {
-    final user = Provider.of<UserModel>(context, listen: false).user;
+    // final user = Provider.of<UserModel>(context, listen: false).user;
+    final user = Provider.of<VendorAdminAuthenticationModel>(context, listen: false).user;
+
 
     var orderURL =
         '${ServerConfig().url}?order_detail=true&order_id=${widget.order.id ?? ''}';
