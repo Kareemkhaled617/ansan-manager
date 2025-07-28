@@ -209,7 +209,7 @@ extension ExtensionScreen on ScreenIndexState {
             key: Key('chatListTab'),
             size: 22,
           ),
-          'label': S.of(context).chatListScreen,
+          'label': 'WithDraw',
         },
         {
           'type': 'settings',
