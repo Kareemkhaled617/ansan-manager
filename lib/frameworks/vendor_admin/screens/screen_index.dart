@@ -205,7 +205,7 @@ extension ExtensionScreen on ScreenIndexState {
         {
           'type': 'chatListScreen',
           'icon': const Icon(
-            CupertinoIcons.chat_bubble_text_fill,
+            CupertinoIcons.money_dollar_circle,
             key: Key('chatListTab'),
             size: 22,
           ),
