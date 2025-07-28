@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flux_firebase/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flux_firebase/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flux_firebase/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flux_interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flux_interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flux_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flux_localization/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flux_localization/.dart_tool/flutter_gen/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flux_localization/.dart_tool/flutter_gen/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flux_localization/.dart_tool/flutter_gen/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flux_localization/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flux_localization/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+  </component>
+</module>
