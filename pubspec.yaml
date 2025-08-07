@@ -6,7 +6,7 @@ description: Mobile commerce app by Flutter
 # A version number is three numbers separated by dots, like 1.2.43 - followed by an optional build number separated by a +.
 # In Android, build-name is used as versionName while build-number used as versionCode.Read more about Android versioning at https://developer.android.com/studio/publish/versioning
 # In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion. Read more about iOS versioning at https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
-version: 1.0.0+3000
+version: 1.0.2+5
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
@@ -295,6 +295,14 @@ flutter_icons:
   android: "launcher_icon"
   ios: true
   image_path: "assets/images/app_icon.png"
+
+
+flutter_native_splash:
+  color: "#FFFFFF" # Background color in hex
+  image: assets/images/splashscreen.png # Path to your splash image
+  ios: true # Enable for iOS
+  # color_dark: "#000000" # Optional: Dark mode background color
+  # image_dark: assets/splash_image_dark.png # Optional: Dark mode image
 
 flutter:
   uses-material-design: true

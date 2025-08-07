@@ -16,7 +16,7 @@ class StatusDropdown extends StatefulWidget {
 class _StatusDropdownState extends State<StatusDropdown> {
   final List<String> statuses = kVendorConfig.disablePendingProduct
       ? ['draft', 'pending', 'private', 'publish']
-      : ['draft', 'pending', 'private'];
+      : ['draft', 'pending', 'private','publish'];
 
   @override
   Widget build(BuildContext context) {
